@@ -1,7 +1,7 @@
 # Hi, I'm Siri Prakash 👋
 
 🎓 B.Sc Computer Science (2nd Year)  
-💻 Aspiring Software Development Intern  
+💻 Undergraduate | Computer Science 
 
 ## Skills
 - Java, Python, C, C++
