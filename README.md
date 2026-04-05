@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Siri Prakash 👋
 
-<!--
-**siriii04/siriii04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Computer Science (2nd Year)  
+💻 Aspiring Software Development Intern  
 
-Here are some ideas to get you started:
+## Skills
+- Java, Python, C, C++
+- JavaScript, HTML, CSS
+- Git & GitHub
+- OOP, Basics of DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Portfolio Website
+- Student Management System (Java)
+- Task Management App (JavaScript)
+
+## Goals
+- Secure a software development internship
+- Build strong real-world projects
+- Learn frameworks and backend technologies
